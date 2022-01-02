@@ -3,6 +3,7 @@ import random
 import socket
 import threading
 
+os.system("clear")
 print('''William X Zen''')
 print       (" - - > Tolls By William!!!! < - - ")
 print       (" - - > Jangan Abuse!!!! < - - ")
